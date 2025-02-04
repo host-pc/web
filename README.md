@@ -1,2 +1,2 @@
 # web
-Mantención y Reparacion de Notebook y PC
+Mantención y Reparación de Notebook y PC
